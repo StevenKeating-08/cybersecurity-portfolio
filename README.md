@@ -16,4 +16,25 @@ I am transitioning into cybersecurity with a focus on becoming a SOC Analyst. I 
 - Python (Beginner)
 
 ## Projects
-(Projects will be added here as I complete labs and exercises)
+### Failed Login Detector (Python)
+
+This project is a Python-based log analysis tool that reads a log file and detects failed login attempts.
+
+#### Features
+- Reads log data from a file
+- Detects failed login attempts (case-insensitive)
+- Identifies suspicious activity
+- Counts total failed login attempts
+
+#### Example Output
+user1 failed login  
+ALERT: Failed login detected  
+...  
+Total failed logins: 4  
+
+#### Skills Used
+- Python
+- File handling
+- Loops
+- Conditional logic
+- Basic cybersecurity analysis
